@@ -3,8 +3,8 @@
         "relation":["delegate_permission/common.handle_all_urls"],
         "target":{
             "namespace":"android_app",
-            "package_name":"app.vercel.pos_online",
-            "sha256_cert_fingerprints":["11:E7:9B:91:A4:93:39:98:08:47:07:4C:14:0E:6A:6C:EF:B6:E0:BF:DD:66:92:31:A8:2B:40:E8:EB:5C:89:1B"]
+            "package_name":"app.vercel.pos_online.twa",
+            "sha256_cert_fingerprints":["7C:C5:05:BF:DC:51:01:37:E2:6C:EF:2D:A7:AC:43:0B:54:44:5D:F2:5B:85:00:80:2B:E0:B6:9C:08:F4:F0:FD"]
         }
     }
 ]
