@@ -4,12 +4,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "404.html"
   },
   {
-    "revision": "ee87a51bf25733ecf29e13df3c4d9326",
-    "url": "android-chrome-192x192.png"
+    "revision": "849e98915cd1bf6746cdb79c876520c4",
+    "url": "android-launchericon-144-144.png"
   },
   {
-    "revision": "a53e99562af2818ba176bf2909c44cd7",
-    "url": "android-chrome-384x384.png"
+    "revision": "262559b9593e0f20a3349390abaa240e",
+    "url": "android-launchericon-192-192.png"
+  },
+  {
+    "revision": "93eb2b6a0b1f6dea33c8dce5163bb17e",
+    "url": "android-launchericon-512-512.png"
   },
   {
     "revision": "19810a5e6bda53afc0f997cdcce17c29",
@@ -76,12 +80,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "fonts/typicons.a509074c.eot"
   },
   {
-    "revision": "1cc48c684b4613efa13928d4958f586b",
-    "url": "images/screenshot1.jpg"
+    "revision": "df0abebf4af08a9792ef83661a98bbcd",
+    "url": "images/background1.png"
   },
   {
-    "revision": "5739a7ee76209ff9387529a0f80fa23c",
-    "url": "images/screenshot2.jpg"
+    "revision": "fa654170b82b754c3857d360e86edc97",
+    "url": "images/background2.png"
   },
   {
     "revision": "e13af414eb1d520905df64f799dbbaa6",
