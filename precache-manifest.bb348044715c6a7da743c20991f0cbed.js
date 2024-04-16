@@ -16,10 +16,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "android-launchericon-512-512.png"
   },
   {
-    "revision": "19810a5e6bda53afc0f997cdcce17c29",
-    "url": "chart.js"
-  },
-  {
     "revision": "09da001a74914106df7a",
     "url": "css/chunk-7df5f87c.60000ead.css"
   },
@@ -44,7 +40,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "images/background2.png"
   },
   {
-    "revision": "e55a336774daad25e95a25b966c4020b",
+    "revision": "32e7ed43aa186f19cad6468b814d0265",
     "url": "index.html"
   },
   {
